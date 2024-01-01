@@ -29,6 +29,10 @@ url: "https://tinyfingersdev.github.io" # the base hostname & protocol for your 
 #twitter_username: jekyllrb
 github_username:  tinyfingersdev
 
+mastodon:
+ - username: tinyfingers
+   instance: universeodon.com
+
 # Build settings
 theme: minima
 plugins:
