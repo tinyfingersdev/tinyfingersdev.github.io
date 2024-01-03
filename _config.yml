@@ -21,11 +21,11 @@
 title: Tiny Fingers House of Dev
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
-url: "https://tinyfingersdev.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+  Welcome to my house of dev! I've never been big on blogging, but I
+  figured I might give it a try for awhile and talk about my SwiftUI
+  journey.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.tinyfingers.dev" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  tinyfingersdev
 
