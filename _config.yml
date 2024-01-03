@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Tiny Fingers House of Dev
-email: your-email@example.com
+email: admin@tinyfingers.dev
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my house of dev! I've never been big on blogging, but I
   figured I might give it a try for awhile and talk about my SwiftUI
