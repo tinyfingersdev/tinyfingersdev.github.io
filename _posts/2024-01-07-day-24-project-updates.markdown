@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 24 Project 2 Updates"
+title:  "Day 24 Project 3 Updates"
 categories: swiftui 100days projects
 ---
 The last part of project 3 had us revisit the first 2 projects we worked on, WeSplit and GuessTheFlag game.
