@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Journey with SwiftUI"
-categories: swiftui update
+categories: swiftui 100days general
 ---
 So I figured I'd give blogging a go while I'm following the [100 Days of SwiftIU][swiftui-100days].
 
