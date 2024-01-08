@@ -1,9 +1,10 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-Who am I? Well, I'm a Software Engineer working at a large retail company based in the U.S where I primarily focus on full stack development using .Net, Java and React.
+Who am I? Well, I'm a Software Engineer working at a large retail company based in the U.S
+where I primarily focus on full stack development, primarly using .Net, Java and React.
 
-However, I found myself getting bored, so I decided to learn SwiftUI to pass the time and maybe find something new that I'll enjoy into the future.
+I decided that I wanted to learn something different, so I'm learning SwiftUI for iOS. 
